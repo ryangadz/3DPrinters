@@ -23,6 +23,7 @@ This dual rail design can reduce wobble in the print head while not losing any b
    1. Don't forget to add the heat set inserts to the rail block like in the original Voron 0 directions. 
 9.  Finally attach the block mount to the rail blocks again. 
 
+
 |Part        | Link     | Notes|
 |--------------|-----------|------------|
 |10x M2 8mm cap head  |      |        |
@@ -37,5 +38,7 @@ This dual rail design can reduce wobble in the print head while not losing any b
 
 ## Other Block Mount Options
 //TODO add links other mounting options
-1. Orbiter
+1. [Orbiter 2 + Mosquito](https://github.com/ryangadz/3DPrinters/tree/main/Voron0/Mods/Toolhead)
 2. LGX Lite
+
+## Notes
