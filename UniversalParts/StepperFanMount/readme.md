@@ -19,4 +19,9 @@ Stepper motors get hot, and many are designed to do so. However, the extruders w
 |<img src="51YZWIcrMdL._SL1000_.jpg" alt="30mm Round Fan" width="200"/>  |  [Amazon Link](https://www.amazon.com/gp/product/B08C6Y246L/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&th=1)    |        |
 |  <img src="418kW13LNyL._AC_.jpg" alt="3510 Round Heatsink" width="200"/>| [Amazon Link](https://www.amazon.com/gp/product/B07GZMSKW4/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)  |       |
 |<img src="Screenshot 2022-08-27 175804.png" alt="CAD file" width="200"/> |[.3mf file](StepperFanMount.3mf)|3 primiters|
-| <img src="510uzSEPcAL._AC_SL1000_.jpg" alt="Thermal Tape" width="200"/>  |[Amazon Link](https://www.amazon.com/gp/product/B08MZGJCGB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)|0.25mm thickness, trim to fit
+| <img src="510uzSEPcAL._AC_SL1000_.jpg" alt="Thermal Tape" width="200"/>  |[Amazon Link](https://www.amazon.com/gp/product/B08MZGJCGB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)|0.25mm thickness, trim to fit|
+
+## Results
+//TODO
+This image was taken after a 2 hour polycarbonate print. Chamber temperatre was around 74C before I opened the door for a photo. 
+![Thermal image taken with Hikmicro Pocket2](20220826175844830.jpg)
