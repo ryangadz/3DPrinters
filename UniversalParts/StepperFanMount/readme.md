@@ -1,13 +1,13 @@
 
-#Pancake Stepper Fan Mount
+# Pancake Stepper Fan Mount
 Simple design for a fan/heatsink combination attached to a stepper motor
 
-##Why?
+## Why?
 Stepper motors get hot, and many are designed to do so. However, the extruders will carry the heat through their metal gears directly to the 3D printer filament, softening it before it goes into the hot end. This will have a huge effect on print quality, and in some cases, create jams. Jams from softened filament happen more often in PLA but can also be a problem with hotter filaments when using an enclosed chamber. 
 
 ![Installed on Orbiter 2](20220823_175356.jpg)
 
-##Directions
+## Directions
 1. Print the supplied .3mf file in the filament of your choice with 3 primiters. It is not completely symetrical to line up with the heatsink fins. I would splice the wires together with your hot end cooling fan so that it turns on whenever you're about to start pusing filament. 
 
 2. Apply thermal tape directly to the back of the pancake stepper and press the heatsink on firmly. 
