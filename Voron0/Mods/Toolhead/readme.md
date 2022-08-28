@@ -50,6 +50,10 @@ Note: this does raise the hot end up 3mm (intentionally since i use a thick carb
 ## Results
 //TODO
 
+## Extras
+|Part        | Link     | Notes|
+|--------------|-----------|------------|
+|<img src="../../../UniversalParts/StepperFanMount/20220823_175356.jpg" alt="Stepper Fan Mount" width="200"/> |[Stepper Fan Mount](https://github.com/ryangadz/3DPrinters/tree/main/UniversalParts/StepperFanMount)||
 
 
 ## Notes
