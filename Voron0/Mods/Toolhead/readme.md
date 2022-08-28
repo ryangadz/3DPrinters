@@ -4,7 +4,7 @@ Replacement for Mini Afterburner
 ## Why?
 The Mini Afterburner is all one piece on top of a very flimsy mount. If a fan goes bad or extruder gets jamed you must take the entire thing apart. Recently the wires broke on my thermistor which finally made me look for better options. I knew I wanted a design where each piece could be serviced individually. 
 
-Since I didn't want to design a new extruder I looked at LGX Lite, Sherpa Mini, and Orbiter 2. I choose the Orbiter 2 for a few reasons: It had larger gears than the Sherba for flexibles, and it could be removed by 2 top screws unlike the LGX. All are good choices and you can't go wrong with any of them. 
+Since I didn't want to design a new extruder I looked at LGX Lite, Sherpa Mini, and Orbiter 2. I choose the Orbiter 2 for a few reasons: It had larger gears than the Sherpa for flexibles, and it could be removed by 2 top screws unlike the LGX. All are good choices and you can't go wrong with any of them. 
 
 ![Original Voron Gantry v. Dual Rail](ToolheadCAD.png)
 
